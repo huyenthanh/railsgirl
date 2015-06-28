@@ -1,2 +1,3 @@
 # railsgirl
-Sample
+Hello railsgirldannang. 
+I'm HuyenThanh
